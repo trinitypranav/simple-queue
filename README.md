@@ -3,7 +3,7 @@
 Code snippet as follows:
 
 ```
-const Queue = require("./index");
+const Queue = require("javascript-queue");
 
 // create new instance of Queue
 const queue = new Queue();
