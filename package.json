@@ -6,7 +6,7 @@
   "scripts": {
     "test": ""
   },
-  "keywords": ['queue','data structure','javascript'],
+  "keywords": ["queue","data structure","javascript"],
   "author": "",
   "license": "ISC"
 }
