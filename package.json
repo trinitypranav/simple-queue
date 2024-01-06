@@ -1,5 +1,5 @@
 {
-  "name": "simple-queue",
+  "name": "javascript-queue",
   "version": "1.0.0",
   "description": "A simple queue for JavaScript containing operations like enqueue, dequeue, etc",
   "main": "index.js",
